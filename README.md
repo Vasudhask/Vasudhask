@@ -1,4 +1,3 @@
-[![MasterHead](https://www.canva.com/design/DAEpN7MlixA/rLHgKrr-EOsHAA7kLkEL_g/view?utm_content=DAEpN7MlixA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]
 <h1 align="center"> Hello people, I'm Vasudha SK :)</h1>
 <h3 align="center">A First Year Electronics student</h3>
 
