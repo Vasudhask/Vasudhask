@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasudhask&label=Profile%20views&color=0e75b6&style=flat" alt="vasudhask" /> </p>
 
-- 🌱 I’m currently learning **IoT, Raspberry Pi, Arduino, Embedded Systems**
+- 🌱 I’m currently learning **IoT, Arduino**
 
 - 📫 How to reach me **vasoosk@gmail.com**
 
