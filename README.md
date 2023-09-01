@@ -1,11 +1,11 @@
-<h1 align="center"> Hello people, I'm Vasudha SK :)</h1>
-<h3 align="center">A second Year Electronics student</h3>
+<h1 align="center"> Hello folks! I'm Vasudha SK :)</h1>
+<h3 align="center">Final year Electronics and Instrumentation student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasudhask&label=Profile%20views&color=0e75b6&style=flat" alt="vasudhask" /> </p>
 
-- 🌱 I’m currently learning **IoT, Arduino**
+- 🌱 I’m currently learning **IoT, Arduino, Neural Networks**
 
-- 📫 How to reach me **vasoosk@gmail.com**
+- 📫 How to reach me **vasudhasamprati.k@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
