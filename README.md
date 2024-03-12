@@ -1,5 +1,5 @@
-<h1 align="center"> Hello folks! I'm Vasudha SK :)</h1>
-<h3 align="center">Final year Electronics and Instrumentation student</h3>
+<h1 align="center"> Hello folks! I'm Vasudha S K :)</h1>
+<h3 align="center">A final year B. Tech student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasudhask&label=Profile%20views&color=0e75b6&style=flat" alt="vasudhask" /> </p>
 
